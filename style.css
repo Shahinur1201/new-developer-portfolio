@@ -66,11 +66,19 @@ h1 {
   background-repeat: no-repeat;
   background-size: 250px;
 }
+
+.contract {
+  background-color: wheat;
+  padding: 30px;
+  width: 96%;
+  height: 10%;
+  text-align: center;
+}
+
 .fot {
   text-align: center;
   background-color: blueviolet;
 }
-
 .fot-design {
   text-align: center;
   background-color: violet;

@@ -11,9 +11,9 @@ h1 {
 .blue {
   color: cornflowerblue;
 }
-section {
+.flexible-contianer {
   display: flex;
-  padding: 5%;
+  padding: 50px;
 }
 .half-width {
   width: 50%;
@@ -28,4 +28,11 @@ section {
   font-weight: 700;
   padding: 8px 20px;
   border-radius: 4px;
+}
+.mission-area {
+  text-align: center;
+}
+
+.mission-contant img {
+  width: 33%;
 }

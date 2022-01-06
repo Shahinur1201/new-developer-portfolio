@@ -62,7 +62,7 @@ h1 {
 }
 .web-carrer {
   background-image: url(img/shape/shape-1.png);
-  background-position: right 200px;
+  background-position: right;
   background-repeat: no-repeat;
   background-size: 250px;
 }
@@ -81,8 +81,9 @@ h1 {
 }
 .fot-design {
   text-align: center;
-  background-color: violet;
+  background-color: black;
   padding: 5px;
+  color: white;
 }
 .g-font {
   font-family: "Lobster", cursive;

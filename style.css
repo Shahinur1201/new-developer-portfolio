@@ -34,5 +34,52 @@ h1 {
 }
 
 .mission-contant img {
-  width: 33%;
+  width: 40%;
+  padding-right: 70%;
+}
+.side {
+  padding-right: 70%;
+}
+.mission-contant {
+  border-radius: 10px;
+}
+#bag-color {
+  background-color: bisque;
+  margin-right: 15px;
+}
+#bag-color2 {
+  background-color: burlywood;
+  margin-right: 15px;
+}
+#bag-color3 {
+  background-color: aquamarine;
+  padding-bottom: 20px;
+}
+.dev-traning {
+  background-image: url(img/shape/dream-bg.png);
+  background-position: left;
+  background-repeat: no-repeat;
+}
+.web-carrer {
+  background-image: url(img/shape/shape-1.png);
+  background-position: right 200px;
+  background-repeat: no-repeat;
+  background-size: 250px;
+}
+.fot {
+  text-align: center;
+  background-color: blueviolet;
+}
+
+.fot-design {
+  text-align: center;
+  background-color: violet;
+  padding: 5px;
+}
+.g-font {
+  font-family: "Lobster", cursive;
+  font-size: 20px;
+}
+.fot-design p {
+  font-size: 10px;
 }
